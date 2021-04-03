@@ -1,0 +1,14 @@
+Cython
+h5py
+scikit-learn
+metric-learn
+numpy
+Pillow
+Pillow-PIL
+scipy
+tensorboardX
+future
+fire
+tqdm
+fire
+protobuf
