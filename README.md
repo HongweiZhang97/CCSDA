@@ -32,7 +32,7 @@ We use ResNet-50 as the backbone. A pretrained model file is needed. Please put 
 
 **3. Train with our Proposed CCSDA.**
 ## Generate style transfer images
-Train the CycleGAN-for-Camstyle to generate style transfer images and then add them to the training set of the SCT datasets
+Train the [CycleGAN-for-Camstyle](https://github.com/zhunzhong07/CamStyle/tree/master/CycleGAN-for-CamStyle) to generate style transfer images and then add them to the training set of the SCT datasets
 
 ## Train and test
 To train with our proposed CCSDA, simply run train_bm.sh. 
